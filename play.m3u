@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p1J6nC5.png" tvg-id="icable110.hk" tvg-name="有線直播新聞台" tvg-country="Hong Kong" group-title="Hong Kong", 有線直播新聞台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKI8RdW.png" tvg-id="icable108.hk" tvg-name="有線財經資訊台" tvg-country="Hong Kong" group-title="Hong Kong", 有線財經資訊台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 tvg-id="tvb81.hk" tvg-name="翡翠台" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/vE4TEo9.png" group-title="Hong Kong", 翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="tvb82.hk" tvg-name="J2" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/w7cN6AM.png" group-title="Hong Kong", J2
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 tvg-id="tvb83.hk" tvg-name="無線新聞台" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/UKu3YEw.jpg" group-title="Hong Kong", 無線新聞台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="tvb84.hk" tvg-name="Pearl" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/GIHwK67.png" group-title="Hong Kong", Pearl
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dsw8sZg.jpg" tvg-id="macaumacau.mo" tvg-name="澳門Macau" tvg-country="Macau" group-title="Hong Kong", 澳門Macau
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
