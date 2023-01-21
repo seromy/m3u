@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-logo="CYBERPUNK.COM" tvg-id="CYBERPUNK.CP" tvg-name="CYPK" tvg-country="CYBERPUNKCITY" group-title="CYBERPUNKCITY", CYBERPUNK31
-
-
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p1J6nC5.png" tvg-id="icable110.hk" tvg-name="有線直播新聞台" tvg-country="Hong Kong" group-title="Hong Kong", 有線直播新聞台
 https://api.leonardpark.dev/live/icable/110
