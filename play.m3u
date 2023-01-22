@@ -3,13 +3,13 @@
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EKI8RdW.png" tvg-id="icable108.hk" tvg-name="有線財經資訊台" tvg-country="Hong Kong" group-title="Hong Kong", 有線財經資訊台
 https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-id="tvb81.hk" tvg-name="翡翠台" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/vE4TEo9.png" group-title="Hong Kong;黨的", 翡翠台
+#EXTINF:-1 tvg-id="tvb81.hk" tvg-name="翡翠台" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/vE4TEo9.png" group-title="Hong Kong", 翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-id="tvb82.hk" tvg-name="J2" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/w7cN6AM.png" group-title="Hong Kong;黨的", J2
+#EXTINF:-1 tvg-id="tvb82.hk" tvg-name="J2" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/w7cN6AM.png" group-title="Hong Kong", J2
 https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 tvg-id="tvb83.hk" tvg-name="無線新聞台" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/UKu3YEw.jpg" group-title="Hong Kong;黨的", 無線新聞台
+#EXTINF:-1 tvg-id="tvb83.hk" tvg-name="無線新聞台" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/UKu3YEw.jpg" group-title="Hong Kong", 無線新聞台
 https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 tvg-id="tvb84.hk" tvg-name="Pearl" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/GIHwK67.png" group-title="Hong Kong;黨的", Pearl
+#EXTINF:-1 tvg-id="tvb84.hk" tvg-name="Pearl" tvg-country="Hong Kong" tvg-logo="https://i.imgur.com/GIHwK67.png" group-title="Hong Kong", Pearl
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dsw8sZg.jpg" tvg-id="macaumacau.mo" tvg-name="澳視衛星" tvg-country="Macau" group-title="Macau", 澳視衛星
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
@@ -21,9 +21,9 @@ http://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 http://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PpxqtIv.jpg" tvg-id="tdm6.mo" tvg-name="澳門綜藝" tvg-country="Macau" group-title="Macau", 澳門綜藝
 http://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FxT3Qi.png" tvg-id="rthk31.hk" tvg-name="RTHK31" tvg-country="Hong Kong" group-title="Hong Kong;黨的", RTHK31
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FxT3Qi.png" tvg-id="rthk31.hk" tvg-name="RTHK31" tvg-country="Hong Kong" group-title="Hong Kong", RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tp3jvFn.png" tvg-id="rthk32.hk" tvg-name="RTHK32" tvg-country="Hong Kong" group-title="Hong Kong;黨的", RTHK32
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tp3jvFn.png" tvg-id="rthk32.hk" tvg-name="RTHK32" tvg-country="Hong Kong" group-title="Hong Kong", RTHK32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wAtcG3D.png" tvg-id="cctv1.dang.cn" tvg-name="CCTV1 綜合" tvg-country="China" group-title="China;黨的", CCTV1 綜合
-http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fh8SEOh.png" tvg-id="cctv2.dang.cn" tvg-name="CCTV 2 財經" tvg-country="China" group-title="China Dang", CCTV 2 財經
+http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
