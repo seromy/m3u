@@ -26,4 +26,4 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tp3jvFn.png" tvg-id="rthk32.hk" tvg-name="RTHK32" tvg-country="Hong Kong" group-title="Hong Kong", RTHK32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fh8SEOh.png" tvg-id="cctv2.dang.cn" tvg-name="CCTV 2 財經" tvg-country="China" group-title="China Dang", CCTV 2 財經
-http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
