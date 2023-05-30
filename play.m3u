@@ -27,3 +27,5 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fh8SEOh.png" tvg-id="cctv2.dang.cn" tvg-name="CCTV" tvg-country="China" group-title="China Dang", CCTV
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/UNNAMED.png" tvg-id="hakka.tw" tvg-name="Hakka" tvg-country="Taiwan" group-title="Taiwan", 客家電視台
+http://61.216.177.73/sta/ch1865024.m3u8
