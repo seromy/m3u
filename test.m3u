@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="http://epg-url.com/guide.xml"
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.imgur.com/BBCNewsLogo.png" group-title="News",BBC News
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://i.imgur.com/BBCNewsLogo.png" group-title="新聞;英國",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/AlJazeeraLogo.png" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/AlJazeeraLogo.png" group-title="新聞",Al Jazeera English
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="RUV1.is" tvg-name="RUV 1" tvg-logo="https://i.imgur.com/RUVLogo.png" group-title="Iceland",RUV 1
+#EXTINF:-1 tvg-id="RUV1.is" tvg-name="RUV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/RÚV_2019_logo.svg" group-title="冰島",RÚV 1
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8?s=switcher
-#EXTINF:-1 tvg-id="RUV2.is" tvg-name="RUV 2" tvg-logo="https://i.imgur.com/RUVLogo.png" group-title="Iceland",RUV 2
+#EXTINF:-1 tvg-id="RUV2.is" tvg-name="RUV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/RÚV_2_2019_logo.svg" group-title="冰島",RÚV 2
 https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
